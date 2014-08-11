@@ -50,7 +50,7 @@ or as `scrollable` element attributes.
   </scrollable>
 </div>
 OR
-<div class="some-container" scrollable="{alwaysVisible='true'}">
+<div class="some-container" scrollable="{'alwaysVisible':true}">
   ... Some content ...
 </div>
 ```
